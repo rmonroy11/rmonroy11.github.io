@@ -16,7 +16,7 @@ p{
 	grid-gap: 20px;
 	grid-auto-rows: auto;
 	grid-template-rows: none;
-	padding-left: 150px;
+	padding-left: 50px;
 }
 
 #name{
@@ -34,23 +34,6 @@ p{
 	grid-row: 2;
 }
 
-
-#sidebar ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-width: 10%;
-background-color: #833471;
-height: 100%; 
-position: fixed; 
-}
-
-#sidebar li a {
-display: block;
-color: #fff;
-padding: 8px 16px;
-text-decoration: none;
-}
 
 #Bio{
 	grid-column:1;
